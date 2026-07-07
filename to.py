@@ -98,8 +98,8 @@ def main():
 
     # RSHOKA Banner Design
     print(f"{Colors.CYAN}╔══════════════════════════════════════════════════════════════════════╗")
-    print(f"{Colors.CYAN}║ {Colors.WHITE}        မင်္ဂလာပါ! Welcome to RSHOKA Project!                 {Colors.CYAN}║")
-    print(f"{Colors.CYAN}║ {Colors.YELLOW}        Developer: TxiJuNaing                                {Colors.CYAN}║")
+    print(f"{Colors.CYAN}║ {Colors.WHITE}        Welcome to RSHOKA Project!                 {Colors.CYAN}║")
+    print(f"{Colors.CYAN}║ {Colors.YELLOW}        Developer: @Nain663 Telegram Channel👉 @starlink663 && @starlink987                               {Colors.CYAN}║")
     print(f"{Colors.CYAN}╠══════════════════════════════════════════════════════════════════════╣")
     print(f"{Colors.CYAN}║ {Colors.WHITE}        🛒 ဝယ်ယူရန် 👉 @Nain663                              {Colors.CYAN}║")
     print(f"{Colors.CYAN}╚══════════════════════════════════════════════════════════════════════╝{Colors.RESET}\n")
